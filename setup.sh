@@ -66,5 +66,6 @@ apm install highlight-selected
 apm install pigments
 apm install color-picker
 apm install minimap
+apm install file-icons
 
 open https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac
