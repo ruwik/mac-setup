@@ -45,10 +45,6 @@ brew install docker
 brew install tree
 ## node.js framework
 brew install node
-## Vagrant
-brew install vagrant
-## Python
-brew install python
 ## Clojure
 brew install clojure
 ## Gradle
