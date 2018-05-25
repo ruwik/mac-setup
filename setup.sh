@@ -27,6 +27,8 @@ brew cask install docker
 brew cask install vagrant
 ## dropbox api
 brew cask install dropbox
+## Dash
+brew cask install dash
 ## chrome browser
 brew cask install google-chrome
 ## postgres db
