@@ -77,6 +77,8 @@ npm install -g express
 npm install -g chai
 ## electron
 npm install -g electron
+## nightmare
+npm install -g nightmare
 
 ## Atom packages
 
