@@ -49,6 +49,11 @@ brew install node
 brew install clojure
 ## Gradle
 brew install gradle
+## Heroku
+brew install heroku
+## Leiningen
+brew install leiningen
+
 
 ## node.js packages
 ## mocha
@@ -61,13 +66,6 @@ npm install -g express
 npm install -g chai
 ## electron
 npm install -g electron
-
-
-
-##super user intallations
-sudo brew install leiningen
-sudo brew install pip
-sudo pip install pyfs
 
 ## Atom packages
 
