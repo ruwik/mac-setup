@@ -1,102 +1,99 @@
-#########################################################
-##### Homebrew
+## Homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-################
-########## Vim setup
+## zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/nrjais/oh-my-zsh/master/tools/install.sh)"
+
+
+## Vim setup
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/nrjais/oh-my-zsh/master/tools/install.sh)"
 git clone --depth=1 https://github.com/nrjais/vimrc.git ~/.vim_runtime
 sh ~/.vim_runtime/install_awesome_vimrc.sh
 cd ~/.vim_runtime
 sh install.sh
 
-#### Cask Room
+## Cask Room
 brew tap caskroom/versions
 
-############## Applications
-#### android studio
+## Applications
+## android studio
 brew cask install android-studio
-#### atom editor
+## atom editor
 brew cask install atom
-#### acslogo
+## acslogo
 brew cask install acslogo
-#### backup
+## backup
 brew cask install google-backup-and-sync
-#### dbeaver
+## dbeaver
 brew cask install dbeaver-community
-#### docker App
+## docker App
 brew cask install docker
-#### Vagrant API
+## Vagrant API
 brew cask install vagrant
-#### dropbox api
+## dropbox api
 brew cask install dropbox
-#### chrome browser
+## chrome browser
 brew cask install google-chrome
-#### postgres db
+## postgres db
 brew cask install postgres
-#### slack
+## slack
 brew cask install slack
-#### virtualbox
-brew cask install virtualbox
-#### Vlc Player
+## Vlc Player
 brew cask install vlc
-#### JDK 8
+## JDK 8
 brew cask install java8
-######## CLI
-#### docker cli
+
+## CLI
+## docker cli
 brew install docker
-#### tree
+## tree
 brew install tree
-#### node.js framework
+## node.js framework
 brew install node
-#### Vagrant
+## Vagrant
 brew install vagrant
-#### Python
+## Python
 brew install python
-#### Clojure
+## Clojure
 brew install clojure
-#### Gradle
+## Gradle
 brew install gradle
 
-
-####################
-###### node.js packages
-#### mocha
+## node.js packages
+## mocha
 npm install -g mocha
-#### nyc istanbul
+## nyc istanbul
 npm install -g nyc
-#### express
+## express
 npm install -g express
-#### assert chai
+## assert chai
 npm install -g chai
-### electron
+## electron
 npm install -g electron
 
 
-#############################
-#### super user intallations
+
+##super user intallations
 sudo brew install leiningen
-
 sudo brew install pip
-
 sudo pip install pyfs
 
-#########################
-####### Atom packages
-#### beautify
+## Atom packages
+
+## beautify
 apm install atom-beautify
-####todo manager
+##todo manager
 apm install tasks
-####highlight
+##highlight
 apm install highlight-selected
-#### Color shower
+## Color shower
 apm install pigments
-#### Color picker
+## Color picker
 apm install color-picker
-#### minimap of code
+## minimap of code
 apm install minimap
-#### file icons
+## file icons
 apm install file-icons
 
-#### Intellij download
+## Intellij download
 open https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac
