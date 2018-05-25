@@ -1,10 +1,6 @@
 ## Homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-## zsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/nrjais/oh-my-zsh/master/tools/install.sh)"
-
-
 ## Vim setup
 git clone --depth=1 https://github.com/nrjais/vimrc.git ~/.vim_runtime
 sh ~/.vim_runtime/install_awesome_vimrc.sh
@@ -96,3 +92,6 @@ apm install file-icons
 
 ## Intellij download
 open https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac
+
+## zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/nrjais/oh-my-zsh/master/tools/install.sh)"
