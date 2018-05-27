@@ -99,5 +99,8 @@ apm install file-icons
 #### Intellij download
 open https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac
 
+## Mockito Jar file
+open http://central.maven.org/maven2/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar
+
 ## zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/nrjais/oh-my-zsh/master/tools/install.sh)"
