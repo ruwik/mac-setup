@@ -10,7 +10,7 @@ sh install.sh
 ## Cask Room
 brew tap caskroom/versions
 
-## Applications
+#### Applications
 ## android studio
 brew cask install android-studio
 ## atom editor
@@ -40,7 +40,7 @@ brew cask install vlc
 ## JDK 8
 brew cask install java8
 
-## CLI
+#### CLI
 ## docker cli
 brew install docker
 ## tree
@@ -56,7 +56,7 @@ brew install heroku
 ## Leiningen
 brew install leiningen
 
-## Python packages
+#### Python packages
 ## Python Package Manager
 sudo easy_install pip
 ## Nose
@@ -66,7 +66,7 @@ sudo easy_install tornado
 ## Python File System
 sudo pip install pyfs
 
-## node.js packages
+#### node.js packages
 ## mocha
 npm install -g mocha
 ## nyc istanbul
@@ -80,8 +80,7 @@ npm install -g electron
 ## nightmare
 npm install -g nightmare
 
-## Atom packages
-
+#### Atom packages
 ## beautify
 apm install atom-beautify
 ##todo manager
@@ -97,7 +96,7 @@ apm install minimap
 ## file icons
 apm install file-icons
 
-## Intellij download
+#### Intellij download
 open https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac
 
 ## zsh
