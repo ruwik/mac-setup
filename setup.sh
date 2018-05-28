@@ -95,6 +95,8 @@ apm install color-picker
 apm install minimap
 ## file icons
 apm install file-icons
+## ruby beautifier
+gem install rubocop
 
 #### Intellij download
 open https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac
