@@ -33,8 +33,8 @@ brew cask install dash
 brew cask install google-chrome
 ## postgres db
 brew cask install postgres
-## slack
-brew cask install slack
+## Rambox - social media alternative, it is like collection of social networking apps
+brew cask install rambox
 ## Vlc Player
 brew cask install vlc
 ## JDK 8
