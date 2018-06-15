@@ -27,3 +27,5 @@ brew cask install rambox
 brew cask install vlc
 ## JDK 8
 brew cask install java8
+## iTerm2
+brew cask install iterm2
