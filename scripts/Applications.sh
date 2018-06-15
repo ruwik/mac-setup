@@ -29,3 +29,5 @@ brew cask install vlc
 brew cask install java8
 ## iTerm2
 brew cask install iterm2
+## flycut
+brew cask install flycut
