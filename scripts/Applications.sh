@@ -25,8 +25,6 @@ brew cask install postgres
 brew cask install rambox
 ## Vlc Player
 brew cask install vlc
-## JDK 8
-brew cask install java8
 ## iTerm2
 brew cask install iterm2
 ## flycut
