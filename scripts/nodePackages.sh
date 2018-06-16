@@ -1,13 +1,15 @@
 #### node.js packages
 ## mocha
-npm install -g mocha
+npm install mocha
 ## nyc istanbul
-npm install -g nyc
+npm install nyc
 ## express
-npm install -g express
+npm install express
 ## assert chai
-npm install -g chai
+npm install chai
 ## electron
-npm install -g electron
+npm install electron
 ## nightmare
-npm install -g nightmare
+npm install nightmare
+## super test
+npm install supertest
