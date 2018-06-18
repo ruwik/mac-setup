@@ -13,3 +13,10 @@ npm install electron
 npm install nightmare
 ## super test
 npm install supertest
+
+
+
+##React native
+npm install -g create-react-native-app
+##React
+npm install -g create-react-app
