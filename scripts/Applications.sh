@@ -21,8 +21,8 @@ brew cask install dash
 brew cask install google-chrome
 ## postgres db
 brew cask install postgres
-## Rambox - social media alternative, it is like collection of social networking apps
-brew cask install rambox
+## Wavebox - social media alternative, it is like collection of social networking apps and it is an Electron app
+brew cask install Wavebox
 ## Vlc Player
 brew cask install vlc
 ## iTerm2
