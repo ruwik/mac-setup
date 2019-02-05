@@ -13,7 +13,8 @@ npm install electron
 npm install nightmare
 ## super test
 npm install supertest
-
+## tabset
+npm install -g tabset
 
 
 ##React native
