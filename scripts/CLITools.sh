@@ -15,3 +15,9 @@ brew install gradle
 brew install heroku
 ## Leiningen
 brew install leiningen
+## bat
+brew install bat
+## jq
+brew install jq
+## httpie
+brew install httpie
