@@ -21,8 +21,10 @@ brew cask install dash
 brew cask install google-chrome
 ## postgres db
 brew cask install postgres
-## Wavebox - social media alternative, it is like collection of social networking apps and it is an Electron app
-brew cask install Wavebox
+## Slack
+brew cask install slack
+## Kitematic
+brew cask install kitemtic
 ## Vlc Player
 brew cask install vlc
 ## iTerm2
