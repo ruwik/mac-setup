@@ -31,3 +31,5 @@ brew cask install vlc
 brew cask install iterm2
 ## flycut
 brew cask install flycut
+## Code
+brew cask install visual-studio-code 
