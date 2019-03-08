@@ -14,7 +14,7 @@ npm install nightmare
 ## super test
 npm install supertest
 ## tabset
-npm install -g tabset
+npm install -g iterm2-tab-set
 
 
 ##React native
