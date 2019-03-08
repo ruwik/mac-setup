@@ -12,7 +12,7 @@ brew install clojure
 ## Gradle
 brew install gradle
 ## Heroku
-brew install heroku
+brew install heroku/brew/heroku
 ## Leiningen
 brew install leiningen
 ## bat
