@@ -24,7 +24,7 @@ brew cask install postgres
 ## Slack
 brew cask install slack
 ## Kitematic
-brew cask install kitemtic
+brew cask install kitematic
 ## Vlc Player
 brew cask install vlc
 ## iTerm2
